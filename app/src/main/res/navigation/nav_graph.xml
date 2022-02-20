@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.sms_sherlar.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/typesOfPoemsFragment"
+        android:name="com.example.sms_sherlar.TypesOfPoemsFragment"
+        android:label="fragment_types_of_poems"
+        tools:layout="@layout/fragment_types_of_poems" />
+    <fragment
+        android:id="@+id/myPoemDialog"
+        android:name="com.example.sms_sherlar.MyPoemDialog"
+        android:label="fragment_my_poem_dialog"
+        tools:layout="@layout/fragment_my_poem_dialog" />
+    <fragment
+        android:id="@+id/savedFragment"
+        android:name="com.example.sms_sherlar.SavedFragment"
+        android:label="fragment_saved"
+        tools:layout="@layout/fragment_saved" />
+</navigation>

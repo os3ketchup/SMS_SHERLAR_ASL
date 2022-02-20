@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SMS_SHERLAR</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sevgi_sheri">Sevging juda baland ekan qo\'li,\n yetmadi Orzularing osmon ekan pulim yetmadi\n Sen boshqacha ekansan men boshqachaman\n Sen-ku mayli o\'zimga qo\'lim so\'zim o\'tmadi...</string>
+    <string name="dialog_poem">Ko’zlarim ko’r bo’lsa, ko’rmasdim seni,\n Yuragim tosh bo’lsa, sevmasdim seni,\n Mayli xijron azobi qiynasin meni,\n O’lsam ham baribir sevaman seni!</string>
+</resources>
